@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: bisque;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: gray;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.input, .second-input {
+    margin-right: 25px;
+}
+
+.input {
+    margin-right: 50px;
+}
+
+.label, .second-label {
+    margin-right: 5px;
+}
+
+hr {
+    margin-top: 25px;
+}
+
